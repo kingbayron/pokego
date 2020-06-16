@@ -1,0 +1,1322 @@
+Se esta estudiando el archivo ch150p00005.tsp
+Con un presupuesto maximo de: 4337
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+144 143 22 37 31 130 133 53 91 45 89 24 19 50 108 42 66 11 115 100 40 56 59 126 117 52 138 119 46 109 80 36 98 134 49 57 140 82 17 74 25 145 96 106 6 7 88 29 112 9 95 34 123 92 51 32 104 110 132 76 77 58 120 93 87 20 124 103 127 111 144 
+Costo Solucion: 4331.62
+La solucion tiene un largo de: 71
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+143 146 48 121 76 133 53 91 50 108 42 66 130 22 37 115 100 56 59 126 117 52 46 119 36 1 98 49 80 109 19 24 89 82 17 74 55 145 96 106 6 83 29 88 123 34 125 32 110 132 14 58 78 9 87 20 124 103 127 12 135 144 144 26 
+Costo Solucion: 4334.05
+La solucion tiene un largo de: 64
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+144 71 48 146 143 128 22 37 31 130 133 137 53 91 45 24 19 50 108 42 66 115 100 56 59 126 117 23 11 52 138 119 46 109 80 36 98 134 49 54 57 140 82 17 74 25 145 96 106 6 83 29 95 88 123 92 51 125 32 104 110 15 132 121 13 79 77 14 58 78 93 87 20 124 103 127 111 144 
+Costo Solucion: 4336.78
+La solucion tiene un largo de: 78
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+143 146 48 71 79 13 121 76 130 133 137 45 89 82 140 80 109 24 19 50 108 42 66 31 22 37 115 100 38 56 59 35 126 117 23 11 52 39 138 46 119 41 36 1 28 85 69 49 57 54 17 74 25 55 145 96 106 6 83 29 88 95 34 92 125 32 104 110 15 132 14 77 58 78 120 20 124 103 127 63 111 135 144 144 
+Costo Solucion: 4323.53
+La solucion tiene un largo de: 84
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+71 48 146 143 128 22 37 31 130 76 121 13 79 77 14 132 50 108 42 66 115 38 56 59 126 117 23 52 138 119 36 98 28 49 57 54 82 55 145 25 74 17 96 106 6 83 7 88 123 34 92 51 125 32 91 53 137 133 104 110 15 58 120 9 93 87 20 124 103 127 12 144 144 
+Costo Solucion: 4334.43
+La solucion tiene un largo de: 73
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+144 143 146 48 71 13 121 76 130 133 137 53 45 108 42 66 31 115 100 40 56 59 126 23 11 52 138 119 46 19 80 109 41 36 1 98 85 49 54 64 17 82 140 89 55 25 145 96 106 6 83 88 34 92 51 125 32 104 110 132 58 120 78 14 77 20 124 103 127 111 135 135 
+Costo Solucion: 4334.27
+La solucion tiene un largo de: 72
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+63 111 144 143 146 48 13 121 76 133 53 91 89 19 108 42 66 130 31 22 37 115 100 40 56 59 126 117 23 52 138 119 46 109 80 1 36 98 49 54 140 82 55 145 25 74 17 96 106 6 83 29 88 34 92 51 125 32 104 110 15 132 14 58 78 120 9 112 93 87 20 124 103 127 12 
+Costo Solucion: 4334.14
+La solucion tiene un largo de: 75
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+146 48 71 79 13 121 76 22 37 31 130 133 137 53 91 45 19 50 108 42 66 115 100 40 56 59 126 117 23 11 52 39 119 41 36 98 28 80 57 49 54 82 17 74 25 55 145 96 106 6 83 7 88 95 112 9 34 123 92 51 125 32 104 132 15 58 14 77 20 124 103 127 12 135 144 144 
+Costo Solucion: 4330.14
+La solucion tiene un largo de: 76
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+144 143 146 48 79 13 121 22 37 31 130 133 137 53 91 45 89 24 19 50 108 42 66 115 100 40 56 59 126 117 23 11 52 138 119 46 36 98 85 49 54 57 80 140 82 55 25 74 17 96 106 6 83 88 95 123 34 51 125 32 104 110 132 14 58 78 93 9 112 87 20 124 103 127 135 144 
+Costo Solucion: 4331.23
+La solucion tiene un largo de: 76
+Posible solucion
+133 
+Costo Solucion: 0
+La solucion tiene un largo de: 1
+Posible solucion
+133 108 
+Costo Solucion: 152.62
+La solucion tiene un largo de: 2
+Posible solucion
+133 108 42 
+Costo Solucion: 215.32
+La solucion tiene un largo de: 3
+Posible solucion
+133 108 42 66 
+Costo Solucion: 256.193
+La solucion tiene un largo de: 4
+Posible solucion
+133 108 42 66 115 
+Costo Solucion: 425.795
+La solucion tiene un largo de: 5
+Posible solucion
+133 108 42 66 115 56 
+Costo Solucion: 613.354
+La solucion tiene un largo de: 6
+Posible solucion
+133 108 42 66 115 56 59 
+Costo Solucion: 783.039
+La solucion tiene un largo de: 7
+Posible solucion
+133 108 42 66 115 56 59 126 
+Costo Solucion: 838.331
+La solucion tiene un largo de: 8
+Posible solucion
+133 108 42 66 115 56 59 126 52 
+Costo Solucion: 876.791
+La solucion tiene un largo de: 9
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 
+Costo Solucion: 995.03
+La solucion tiene un largo de: 10
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 
+Costo Solucion: 1116.8
+La solucion tiene un largo de: 11
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 
+Costo Solucion: 1142.88
+La solucion tiene un largo de: 12
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 
+Costo Solucion: 1292.8
+La solucion tiene un largo de: 13
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 
+Costo Solucion: 1383.91
+La solucion tiene un largo de: 14
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 
+Costo Solucion: 1384.99
+La solucion tiene un largo de: 15
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 
+Costo Solucion: 1539.79
+La solucion tiene un largo de: 16
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 
+Costo Solucion: 1673.55
+La solucion tiene un largo de: 17
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 
+Costo Solucion: 1812.94
+La solucion tiene un largo de: 18
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 
+Costo Solucion: 1845.95
+La solucion tiene un largo de: 19
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 
+Costo Solucion: 1940.82
+La solucion tiene un largo de: 20
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 
+Costo Solucion: 2040.4
+La solucion tiene un largo de: 21
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 
+Costo Solucion: 2221.13
+La solucion tiene un largo de: 22
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 
+Costo Solucion: 2224.1
+La solucion tiene un largo de: 23
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 
+Costo Solucion: 2350.72
+La solucion tiene un largo de: 24
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 
+Costo Solucion: 2451.93
+La solucion tiene un largo de: 25
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 
+Costo Solucion: 2679.6
+La solucion tiene un largo de: 26
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 
+Costo Solucion: 2838.26
+La solucion tiene un largo de: 27
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 
+Costo Solucion: 3026.2
+La solucion tiene un largo de: 28
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 
+Costo Solucion: 3105.83
+La solucion tiene un largo de: 29
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 
+Costo Solucion: 3209.47
+La solucion tiene un largo de: 30
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+133 108 42 66 115 56 59 126 52 119 36 1 98 49 57 74 17 96 123 88 6 106 32 132 58 20 124 103 127 12 144 
+Costo Solucion: 3226.08
+La solucion tiene un largo de: 31
+Posible solucion
+143 146 48 79 13 121 76 130 133 137 108 42 66 31 37 100 38 56 59 126 115 23 52 138 119 46 19 24 109 36 98 80 140 64 17 74 82 55 145 25 96 106 6 83 88 34 92 125 32 91 89 53 104 110 132 58 78 120 93 9 87 20 124 103 127 12 135 144 144 
+Costo Solucion: 4334.04
+La solucion tiene un largo de: 69
